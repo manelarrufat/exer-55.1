@@ -1,0 +1,121 @@
+# $Id$
+#
+# LANGUAGE translation of Drupal (general)
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+# Generated from files:
+#  nodes_forcontu.module: n/a
+#  nodes_forcontu.info: n/a
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2016-01-04 14:36+0100\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: nodes_forcontu.module:14
+msgid "My product"
+msgstr ""
+
+#: nodes_forcontu.module:16
+msgid "Example node type"
+msgstr ""
+
+#: nodes_forcontu.module:17
+msgid "Product name"
+msgstr ""
+
+#: nodes_forcontu.module:41
+msgid "Product information"
+msgstr ""
+
+#: nodes_forcontu.module:50;245
+msgid "Price"
+msgstr ""
+
+#: nodes_forcontu.module:53
+msgid "Product's price (Euro)."
+msgstr ""
+
+#: nodes_forcontu.module:61;262
+msgid "Weight"
+msgstr ""
+
+#: nodes_forcontu.module:63
+msgid "Product's weight (Kg)."
+msgstr ""
+
+#: nodes_forcontu.module:71
+msgid "Dimensions"
+msgstr ""
+
+#: nodes_forcontu.module:72
+msgid "Physical dimensions of the packaged product (cm)."
+msgstr ""
+
+#: nodes_forcontu.module:78
+msgid "Length"
+msgstr ""
+
+#: nodes_forcontu.module:86
+msgid "Width"
+msgstr ""
+
+#: nodes_forcontu.module:94
+msgid "Height"
+msgstr ""
+
+#: nodes_forcontu.module:111
+msgid "Price must be in a valid number format. Not commas and only one decimal point."
+msgstr ""
+
+#: nodes_forcontu.module:115
+msgid "Weight must be a positive number."
+msgstr ""
+
+#: nodes_forcontu.module:119
+msgid "Length must be a positive number."
+msgstr ""
+
+#: nodes_forcontu.module:123
+msgid "Width must be a positive number."
+msgstr ""
+
+#: nodes_forcontu.module:127
+msgid "Height must be a positive number."
+msgstr ""
+
+#: nodes_forcontu.module:280
+msgid "Dimensions (length x width x height)"
+msgstr ""
+
+#: nodes_forcontu.module:294
+msgid "My product: Delete promoted content"
+msgstr ""
+
+#: nodes_forcontu.module:295
+msgid "Allow delete promoted content of type my product"
+msgstr ""
+
+#: nodes_forcontu.module:311
+msgid "No tiene permisos para eliminar este contenido."
+msgstr ""
+
+#: nodes_forcontu.info:0
+msgid "Nodes Forcontu"
+msgstr ""
+
+#: nodes_forcontu.info:0
+msgid "Creates a new content type"
+msgstr ""
+
+#: nodes_forcontu.info:0
+msgid "My modules"
+msgstr ""
+
